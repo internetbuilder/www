@@ -9,7 +9,7 @@ gem 'neat', '~> 1.7.1'
 gem 'nokogiri', '~> 1.11.4'
 gem 'rouge', '~> 2.2.1'
 gem 'therubyracer', '~>0.12.3'
-gem "jekyll-github-metadata", "~> 2.13"
+gem "jekyll-github-metadata", "~> 2.14", ">= 2.14.0"
 gem "kramdown", "~> 2.3.1"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
